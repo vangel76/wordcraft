@@ -270,6 +270,7 @@ impl WordApp {
             legacy_dark: _,
             nav_tab: _,
             status_count: _,
+            display_server: _,
             nav_pane: _,
             show_discord: _,
             author: _,
